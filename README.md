@@ -19,6 +19,7 @@ Ce TP nous a permis de :
 - **Java** 8 ou supérieur
 - **Maven** 3.6 ou supérieur
 - Un IDE IntelliJ IDEA
+<img width="1026" height="517" alt="Capture d’écran 2026-02-18 184109" src="https://github.com/user-attachments/assets/9716573b-0be6-42c8-9563-6fa00e7e07a0" />
 
 Les Entités
 Entité Salle
@@ -28,6 +29,9 @@ Entité Salle
 <img width="1026" height="269" alt="Capture d’écran 2026-02-18 185628" src="https://github.com/user-attachments/assets/297ed41f-264a-440c-9d8f-b49a92c943d8" />
 <img width="1026" height="316" alt="Capture d’écran 2026-02-18 190107" src="https://github.com/user-attachments/assets/dc06c2d2-9384-4d25-9da6-1a52b03bcf26" />
 <img width="1026" height="340" alt="Capture d’écran 2026-02-18 190146" src="https://github.com/user-attachments/assets/2ac6ba74-77af-4e8f-8642-3940856eb02a" />
+<img width="1020" height="531" alt="Capture d’écran 2026-02-18 183624" src="https://github.com/user-attachments/assets/a345ffcf-ae6f-42ca-9529-3c9607edb49d" />
+<img width="1014" height="259" alt="Capture d’écran 2026-02-18 185327" src="https://github.com/user-attachments/assets/01db7969-bd3f-4c3b-9e24-2992a911ae66" />
+
 
  Entité Utilisateur
 
